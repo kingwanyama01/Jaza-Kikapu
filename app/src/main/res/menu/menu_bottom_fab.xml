@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:onClick="kikapu"
+        android:icon="@drawable/ic_kikapu"
+        android:iconTint="@color/orange_600"
+        android:orderInCategory="100"
+        android:title="kikapu"
+        app:showAsAction="always" />
+
+    <item
+        android:onClick="profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:iconTint="@color/orange_600"
+        android:orderInCategory="100"
+        android:title="profile"
+        app:showAsAction="always" />
+
+    <item
+        android:onClick="donate"
+        android:icon="@drawable/ic_donate_gift"
+        android:iconTint="@color/orange_600"
+        android:orderInCategory="100"
+        android:title="Donate"
+        app:showAsAction="always" />
+
+
+
+</menu>

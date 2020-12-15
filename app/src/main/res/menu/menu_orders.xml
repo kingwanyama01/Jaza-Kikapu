@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:icon="@drawable/ic_orders"
+		android:id="@+id/navigation_kikapu"
+		android:iconTint="@color/white"
+		android:title="orders" />
+</menu>
+
+
+

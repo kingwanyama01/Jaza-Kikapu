@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JazaKikapu</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+        \n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur ipsum in placerat molestie.  Fusce quis mauris a enim sollicitudin
+    </string>
+
+    <string name="short_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="total">Total :</string>
+    <string name="kes_8_000">kes 8,000</string>
+    <string name="_381_380">381,380</string>
+    <string name="kes_5000">kes 5000</string>
+    <string name="qty_10">QTY : 10</string>
+    <string name="kes_500">kes 500</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="_2_kgs">2 kgs</string>
+    <string name="pembe_maize_meal">Pembe Maize meal</string>
+
+</resources>
